@@ -29,23 +29,23 @@
 
 ###  Recent Projects
 
+> [Encompass: a productivity app](https://github.com/FilimonK-Git/Encompass)
 
-- [Encompass: a productivity app](https://github.com/FilimonK-Git/Encompass)
-- [Atelier: an apprael E-Commerce site](https://github.com/FilimonK-Git/Atelier) & [System Design](https://github.com/FilimonK-Git/System-Design)
-- [Air Pollution Near Me](https://github.com/FilimonK-Git/Air-Pollution-Near-Me)
+> [Atelier: an apprael E-Commerce site](https://github.com/FilimonK-Git/Atelier) & [System Design](https://github.com/FilimonK-Git/System-Design)
+
+> [Air Pollution Near Me](https://github.com/FilimonK-Git/Air-Pollution-Near-Me)
 
 
 <div align="center">
      
 <h3> 
-  <img src="https://media4.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif?cid=ecf05e47ivecqg3ulgc3c0o826ny7ib1626s3djqyaotzxa5&rid=giphy.gif&ct=g" width="43px" height="30px">  
-     <a href="https://www.w3schools.com](https://github.com/FilimonK-Git/FilimonK-Git/files/10036904/Resume.-.FKiros.pdf">Resume</a>
+  <img src="https://gifimage.net/wp-content/uploads/2017/11/flashing-arrow-gif-10.gif" width="43px" height="25px"> <a href="https://github.com/FilimonK-Git/FilimonK-Git/files/10036904/Resume.-.FKiros.pdf">Resume</a>
 </h3>
 
 <div align="center">
 
      
-## Check out my [Resume - FKiros.pdf](https://github.com/FilimonK-Git/FilimonK-Git/files/10036904/Resume.-.FKiros.pdf)
+
 
 </div>
 
@@ -59,6 +59,7 @@
 <!---
 FilimonK-Git/FilimonK-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+## Check out my [Resume - FKiros.pdf](https://github.com/FilimonK-Git/FilimonK-Git/files/10036904/Resume.-.FKiros.pdf)
 --->
 
 
