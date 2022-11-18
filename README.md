@@ -1,14 +1,12 @@
 
 
-# 👋 Hi, I’m Filimon...
+# 👋 Hi, I’m Filimon
 
-## :page_with_curl: Check out my [Resume - FKiros.pdf](https://github.com/FilimonK-Git/FilimonK-Git/files/10036904/Resume.-.FKiros.pdf)
+> 👀 I’m an environmental engineer who has got a knack for software engineering ...
 
-> 👀 I’m an environmental engineer who has got a knack for software engineering...
+> 💞️ I’m looking to collaborate on the next super cool software project. Love to hear from you filimona.kiros@gmail.com
 
-> 💞️ I’m looking to collaborate on the next super cool software project... Love to hear from you filimona.kiros@gmail.com
-
-> 🌱 I’m currently programming in JavaScript and here are some tech tools I've worked with...
+> 🌱 I’m currently programming in JavaScript and here are some tech tools I use ...
 
 <div align="center">
      <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&style=for-the-badge&logoColor=black">
@@ -37,8 +35,27 @@
 - [Air Pollution Near Me](https://github.com/FilimonK-Git/Air-Pollution-Near-Me)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FilimonK-Git&theme=gruvbox)](https://git.io/streak-stats)
+<div align="center">
+     
+<h3> 
+  <img src="https://media4.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif?cid=ecf05e47ivecqg3ulgc3c0o826ny7ib1626s3djqyaotzxa5&rid=giphy.gif&ct=g" width="43px" height="30px">  
+     <a href="https://www.w3schools.com](https://github.com/FilimonK-Git/FilimonK-Git/files/10036904/Resume.-.FKiros.pdf)">Resume</a>
+</h3>
 
+<div align="center">
+
+     
+## Check out my [Resume - FKiros.pdf](https://github.com/FilimonK-Git/FilimonK-Git/files/10036904/Resume.-.FKiros.pdf)
+
+</div>
+
+</div>
+     
+<div align="center">
+     
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FilimonK-Git&theme=gruvbox)](https://git.io/streak-stats)
+     
+</div>
 <!---
 FilimonK-Git/FilimonK-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
