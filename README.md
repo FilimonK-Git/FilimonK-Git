@@ -39,7 +39,12 @@
 <div align="center">
      
 <h3> 
-  <img src="https://gifimage.net/wp-content/uploads/2017/11/flashing-arrow-gif-10.gif" width="43px" height="25px"> <a href="https://github.com/FilimonK-Git/FilimonK-Git/files/10036904/Resume.-.FKiros.pdf">Resume</a>
+     <p style="font-size:50px"> 
+      <a href="https://github.com/FilimonK-Git/FilimonK-Git/files/10036904/Resume.-.FKiros.pdf">Resume</a>
+     </p>
+  <img src="https://media4.giphy.com/media/M9HhVYxZRC3Dctc1S8/giphy.gif?cid=ecf05e47ajfha2nu3a3nkfzebty183yntvzfva05jg0hfxdd&rid=giphy.gif&ct=g" width="50px" height="60px"> 
+     
+    
 </h3>
 
 <div align="center">
