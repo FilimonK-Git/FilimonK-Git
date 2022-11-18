@@ -39,7 +39,7 @@
      
 <h3> 
   <img src="https://media4.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif?cid=ecf05e47ivecqg3ulgc3c0o826ny7ib1626s3djqyaotzxa5&rid=giphy.gif&ct=g" width="43px" height="30px">  
-     <a href="https://www.w3schools.com](https://github.com/FilimonK-Git/FilimonK-Git/files/10036904/Resume.-.FKiros.pdf)">Resume</a>
+     <a href="https://www.w3schools.com](https://github.com/FilimonK-Git/FilimonK-Git/files/10036904/Resume.-.FKiros.pdf">Resume</a>
 </h3>
 
 <div align="center">
