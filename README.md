@@ -29,6 +29,10 @@
 
 ###  Recent Projects
 
+> [Text Analyzer: a frequency counter](https://github.com/FilimonK-Git/Text-Analyzer)
+
+> [Uber: a react-native learning app](https://github.com/FilimonK-Git/uber-clone)
+
 > [Encompass: a productivity app](https://github.com/FilimonK-Git/Encompass)
 
 > [Atelier: an apprael E-Commerce site](https://github.com/FilimonK-Git/Atelier) & [System Design](https://github.com/FilimonK-Git/System-Design)
